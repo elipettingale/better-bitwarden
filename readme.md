@@ -12,4 +12,4 @@ A simple extension that cleans up the Bitwarden UI to make it more usable.
 ## How to use
 
 - Open a tab with Bitwarden.
-- Styles are automaticall injected.
+- Styles are automatically injected.
