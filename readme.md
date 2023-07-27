@@ -1,6 +1,8 @@
 # Better Bitwarden
 
 A simple extension that cleans up the Bitwarden UI to make it more usable.
+With this version you can toggle the styles on/off (default is off), there is an always on version here:
+[version/always-on](https://github.com/elipettingale/better-bitwarden/tree/version/always-on)
 
 ## How to install
 
